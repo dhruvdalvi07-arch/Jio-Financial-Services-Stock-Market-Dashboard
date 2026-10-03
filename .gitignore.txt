@@ -1,0 +1,9 @@
+# Power BI temporary lock and recovery files
+*.tmp
+*.temp
+*AutoRecovery*
+~$*.pbix
+
+# OS files
+Thumbs.db
+.DS_Store
